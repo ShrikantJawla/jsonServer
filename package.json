@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "commit": "git add .; git commit -m'updated files'; git push "
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
