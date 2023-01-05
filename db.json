@@ -1,4 +1,105 @@
 {
-  "cars": [],
-  "wishlisted_cars": []
+  "cars": [
+    {
+      "brand": "hundai",
+      "type": "manual",
+      "year": "2022",
+      "kms": 222000,
+      "Description": "nice car",
+      "price": 200000,
+      "id": 1
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": "2020",
+      "kms": 5000000,
+      "Description": "ok car to purchase",
+      "price": 1000000,
+      "id": 3
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 4
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 5
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 6
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 7
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 8
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 2
+    },
+    {
+      "brand": "hundai",
+      "type": "manual",
+      "year": "2022",
+      "kms": 222000,
+      "Description": "nice car",
+      "price": 200000,
+      "id": 1
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 6
+    },
+    {
+      "brand": "maruti",
+      "type": "automated",
+      "year": "2021",
+      "kms": 22200,
+      "Description": "nice carafadf",
+      "price": 500000,
+      "id": 7
+    }
+  ]
 }
